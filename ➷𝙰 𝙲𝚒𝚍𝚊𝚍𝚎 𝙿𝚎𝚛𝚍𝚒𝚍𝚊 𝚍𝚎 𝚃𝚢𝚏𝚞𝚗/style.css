@@ -1,0 +1,20 @@
+body{
+    background-color:black ; 
+    color:chartreuse ;
+    display: flex ;
+    justify-content: center ;
+    align-items: center ;
+}
+
+button{
+    background-color:purple ;
+    color: chartreuse ;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
